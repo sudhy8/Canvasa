@@ -1,3 +1,3 @@
 # Canvasa
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-ntrzay)
+HTML Canvas Project
